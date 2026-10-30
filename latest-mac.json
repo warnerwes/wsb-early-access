@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "os": "mac",
+  "channels": {
+    "beta": {
+      "version": "5.0.0-beta.2",
+      "tag": "v5.0.0-beta.2",
+      "asset": {
+        "name": "WorkSampleBuddy_mac_v5.0.0-beta.2.dmg",
+        "url": "https://github.com/warnerwes/wsb-early-access/releases/download/v5.0.0-beta.2/WorkSampleBuddy_mac_v5.0.0-beta.2.dmg",
+        "size": 320140162,
+        "sha256": "88b14caddab903d966b9d3d0a6b1077917f36ddcc6fa495a693de6f4a069213c"
+      },
+      "notes": "New in this version:\n\u2022 Early access for Mac: this build updates itself from its own early-access channel and leaves a Work Sample Buddy 4 install's update setting alone.\n\u2022 A new look: the beach course dashboard, calm sky working screens, and Light, Dark or Match my computer in Settings, switched live.\n\u2022 Settings reorganised into eight pages in four groups, with an Easy/Advanced switch; local source folders and Drive folder scanning leave Settings.\n\u2022 RoboSpark work arrives through the PCA extension: set it up there once, and Buddy picks it up with each sync and files it to the right student.\n\u2022 Choose and Prepare: compare papers side by side with the rubric in view; Can't use shows the next paper and remembers the ones you turned down.\n\u2022 Grade options are where you grade: Edit grade options in the grading dropdown and on Verify's grade chips.\n\u2022 Grades and comments entered directly in Schoology are picked up, and you can open the exact Schoology assignment from a task.\n\u2022 Work sample packet rows: finished students fold into a quiet strip, ready rows show a green Finalize, and a settled LP's rows rest on the beach.\n\u2022 Patch tools on the grade page and Verify desk: replace a page, adjust a page, or correct the work date.\n\u2022 Setup is three steps and no longer asks for your name; startup pop-ups become arrival screens, a banner and To-do rows; the Quick Start guide is repainted.\n\nFixes:\n\u2022 Missing or damaged samples and packets are rebuilt when you open them; folder renames interrupted part-way are recovered.\n\u2022 If the workspace goes offline mid-session, Buddy switches to read-only with a reconnect bar instead of failing writes.\n\u2022 Uncertain family-email confirmations are reconciled, and missing-work messages keep their submission links.\n\u2022 Newer assignment revisions are compared before they replace a validated sample, and replacement uploads need a fresh decision.\n\u2022 Prepare LP with no file yet keeps its rows, Compare and Prepare button honest; comparing work with no local file no longer crashes.\n\u2022 Course cards open the header LP's work, never another LP's; long names and badges no longer collide.\n\u2022 Tooltips read clearly in light and dark; a live theme switch no longer rebuilds the window twice.\n\u2022 PDF panning, zoom and page rotation controls stay reachable; lossy PDF annotation rebuilds are refused.\n\u2022 OCR uses the models bundled with the app, and a compromised certificate root was removed from the app's certificate bundle."
+    }
+  }
+}
