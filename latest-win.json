@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "os": "win",
+  "channels": {
+    "beta": {
+      "version": "5.0.0-beta.3",
+      "tag": "v5.0.0-beta.3",
+      "asset": {
+        "name": "WorkSampleBuddy_win_v5.0.0-beta.3.exe",
+        "url": "https://github.com/warnerwes/wsb-early-access/releases/download/v5.0.0-beta.3/WorkSampleBuddy_win_v5.0.0-beta.3.exe",
+        "size": 280479096,
+        "sha256": "ccb1c0146dd9039633ce0e29dd6bb7196d3e746d2eefc02b85501253aa6b8a3e"
+      },
+      "notes": "New in this version:\n\u2022 When RoboSpark work can't be delivered, Buddy offers Check connection, Settings, Try again, Send debug report and Copy details, with advice that fits whether a workspace is open.\n\nFixes:\n\u2022 On a workspace opened before its first import, students and \"See N due\" respond when clicked; the learning-period chooser shows its full dates.\n\u2022 The beach shows behind \"+ Add student\" instead of a light band."
+    }
+  }
+}
