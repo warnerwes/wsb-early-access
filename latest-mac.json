@@ -3,15 +3,15 @@
   "os": "mac",
   "channels": {
     "beta": {
-      "version": "5.0.0-beta.3",
-      "tag": "v5.0.0-beta.3",
+      "version": "5.0.0-beta.4",
+      "tag": "v5.0.0-beta.4",
       "asset": {
-        "name": "WorkSampleBuddy_mac_v5.0.0-beta.3.dmg",
-        "url": "https://github.com/warnerwes/wsb-early-access/releases/download/v5.0.0-beta.3/WorkSampleBuddy_mac_v5.0.0-beta.3.dmg",
-        "size": 320116661,
-        "sha256": "a137f037ba1a592abb207268d0dbff93a11c7cad27794c89bb202b39429cf261"
+        "name": "WorkSampleBuddy_mac_v5.0.0-beta.4.dmg",
+        "url": "https://github.com/warnerwes/wsb-early-access/releases/download/v5.0.0-beta.4/WorkSampleBuddy_mac_v5.0.0-beta.4.dmg",
+        "size": 324860832,
+        "sha256": "029005981b4ea4b7966fe70fe79848f327a06d374bf3cef0195b899f504eab44"
       },
-      "notes": "New in this version:\n\u2022 When RoboSpark work can't be delivered, Buddy offers Check connection, Settings, Try again, Send debug report and Copy details, with advice that fits whether a workspace is open, and a hint when Chrome needs access to its folder.\n\nFixes:\n\u2022 On a workspace opened before its first import, students and \"See N due\" respond when clicked; the learning-period chooser shows its full dates.\n\u2022 The beach shows behind \"+ Add student\" instead of a light band.\n\u2022 Work-date calendar rows are no longer clipped.\n\u2022 The installer window fits its icons."
+      "notes": "New in this version:\n\u2022 Buddy finds existing real settings, saved records and work folders, including managed script profiles. A redesigned recovery screen helps when a choice or reconnection is needed.\n\u2022 Grade and Verify share a floating page filmstrip with multi-page selection, rotation and reordering. Assignments and Chat/Rubric panels open by click and close with X.\n\u2022 Empty Schoology-linked course cards open the course inside Buddy by default; Add PDF remains available for manual work.\n\u2022 Simpler grading, appearance and AI settings, with text size beside the theme selector and guided local-model setup.\n\u2022 Completion email settings and template editing are available from the Finalize bar, with clearer message previews.\n\nFixes:\n\u2022 Recovery keeps original databases and settings, separates demo data from real work, and preserves offline work-folder locations.\n\u2022 Settings Cancel restores unsaved choices; row transitions, verification controls and completion celebrations are smoother."
     }
   }
 }
