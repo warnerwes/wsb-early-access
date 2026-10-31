@@ -1,6 +1,21 @@
 {
   "versions": [
     {
+      "version": "5.0.0-beta.4",
+      "date": "2026-10-31",
+      "features": [
+        "Buddy finds existing real settings, saved records and work folders, including managed script profiles. A redesigned recovery screen helps when a choice or reconnection is needed.",
+        "Grade and Verify share a floating page filmstrip with multi-page selection, rotation and reordering. Assignments and Chat/Rubric panels open by click and close with X.",
+        "Empty Schoology-linked course cards open the course inside Buddy by default; Add PDF remains available for manual work.",
+        "Simpler grading, appearance and AI settings, with text size beside the theme selector and guided local-model setup.",
+        "Completion email settings and template editing are available from the Finalize bar, with clearer message previews."
+      ],
+      "bugs": [
+        "Recovery keeps original databases and settings, separates demo data from real work, and preserves offline work-folder locations.",
+        "Settings Cancel restores unsaved choices; row transitions, verification controls and completion celebrations are smoother."
+      ]
+    },
+    {
       "version": "5.0.0-beta.3",
       "date": "2026-10-30",
       "features": [
