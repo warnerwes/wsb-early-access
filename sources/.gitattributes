@@ -1,0 +1,2 @@
+# Reviewed source records are byte-exact: never convert line endings on checkout.
+* -text
