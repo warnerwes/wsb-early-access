@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "version": "5.0.0-beta.3",
+      "date": "2026-10-30",
+      "features": [
+        "When RoboSpark work can't be delivered, Buddy offers Check connection, Settings, Try again, Send debug report and Copy details, with advice that fits whether a workspace is open, and a hint when Chrome needs access to its folder."
+      ],
+      "bugs": [
+        "On a workspace opened before its first import, students and \"See N due\" respond when clicked; the learning-period chooser shows its full dates.",
+        "The beach shows behind \"+ Add student\" instead of a light band.",
+        "Work-date calendar rows are no longer clipped.",
+        "The installer window fits its icons."
+      ]
+    },
+    {
       "version": "5.0.0-beta.2",
       "date": "2026-10-29",
       "features": [
@@ -203,5 +216,5 @@
     {"version":"4.1.2","date":"2026-03-21","features":["Quick sync button now checks for new Schoology submissions with just one click","Grading window shows unposted Schoology submission counts on finalized student rows","Separate Post Grade and Package buttons for clearer workflow","Workspace reconnection dialog when cloud drive folders go offline temporarily","Small student work samples are now scaled up for easier reading"],"bugs":["Fixed auto-package using wrong student name from missing database join","Fixed header/task checkboxes showing checked when the fix was not actually applied","Fixed Ghostscript compression failures by auto-downgrading from 300 to 150 DPI","Fixed bridge connection issues on macOS (code signing and manifest path)"]},
     {"version":"4.1.1","date":"2026-03-20","features":["Improved Mac build with proper code signing for smoother installation"],"bugs":["Fixed installer not finding the correct file after beta distribution","Fixed Mac bridge connection for PCA Chrome Extension"]}
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-10-30"
 }
