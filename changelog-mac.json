@@ -1,6 +1,23 @@
 {
   "versions": [
     {
+      "version": "5.0.0-beta.5",
+      "date": "2026-11-02",
+      "features": [
+        "To-do brings work from every learning period into one list, with clearer separation between your next actions and work awaiting a student.",
+        "Reading & AI offers None, OCR only, and OCR + AI, with a separate choice for automatic pregrading. Core sample defaults and individual student schedules are easier to adjust.",
+        "Grade groups Chat, Rubric and File tools into tabs. Comparison previews now include page thumbnails, and dragging the thumbnail viewport pans the page.",
+        "Finalize remembers your Email family choice. PDF output and appearance settings are more compact, with clearer PCA sample guidance.",
+        "Fresh coastal update artwork and new Buddy app icons."
+      ],
+      "bugs": [
+        "Page thumbnails stay centered and stable when selecting, reordering and resizing. Finalized packets remain protected until you unfinalize them.",
+        "Changing Reading & AI settings safely holds background work and preserves teacher edits and paused queues.",
+        "Receipt recovery handles more locally captured PDF and HTML files, offers manual filing when needed, and provides more useful diagnostics.",
+        "Filtered To-do and email actions retain the correct assignment and student. Finishing Verify returns to To-do, and Finalize shows clearer progress."
+      ]
+    },
+    {
       "version": "5.0.0-beta.4",
       "date": "2026-10-31",
       "features": [
