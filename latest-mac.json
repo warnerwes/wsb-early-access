@@ -3,15 +3,15 @@
   "os": "mac",
   "channels": {
     "beta": {
-      "version": "5.0.0-beta.5",
-      "tag": "v5.0.0-beta.5",
+      "version": "5.0.0-beta.6",
+      "tag": "v5.0.0-beta.6",
+      "notes": "New in this version:\n\u2022 Checking, downloading and preparing an update all happen in the update window. Downloads have a real Cancel, and an update you put off comes back through the banner.\n\u2022 The grading page's bottom band is one paper surface. Page tools sit on their own tab, and a thumbnail's grip shows only while the pointer is over it.\n\u2022 The grade comment sits in the grading row and grows as you type, then folds when you click away. On the Chat tab it waits as a dashed bubble until you choose Post to thread or Keep with the grade.\n\u2022 Task has its own tab between Chat and Rubric, and Chat runs the full height of the panel with the reply box at the bottom.\n\u2022 The demo tour brings each step's screen forward and hands you a worksheet to drag on the drop step. Its slides always play.\n\u2022 Automatic pre-grading now skips only work already graded in Schoology, and pre-grades everything else in any learning period. Turn it on or off from the To-do menu.\n\u2022 A pre-grade with any model output shows it with a banner instead of stopping. One that does stop says why and what to do next.\n\u2022 Reading & AI: click anywhere on a None, OCR only or OCR + AI card. Auto-configure says what this computer can run and suggests a model that fits.\n\u2022 Grade and Choose work the same way across learning periods, and a student's row unfolds out of its header as one motion. Work not yet graded opens in Grade, and a missing upload offers Check upload.\n\u2022 The Appearance, PDF output and Schoology settings pages are tidier, with matching controls and aligned rows.\n\u2022 The welcome wizard's folder step shows the records it found as one clear card, and the setup screens share one look.\n\nFixes:\n\u2022 Up and down arrows on number boxes respond when clicked.\n\u2022 The window no longer freezes briefly at a session's first message, and report card progress stays smooth while a job runs.\n\u2022 Long student names in To-do shorten with an ellipsis instead of being cut off.\n\u2022 If a window won't close for an update, Buddy says so and keeps the update ready.",
       "asset": {
-        "name": "WorkSampleBuddy_mac_v5.0.0-beta.5.dmg",
-        "url": "https://github.com/warnerwes/wsb-early-access/releases/download/v5.0.0-beta.5/WorkSampleBuddy_mac_v5.0.0-beta.5.dmg",
-        "size": 334899977,
-        "sha256": "6e5655e7ce7375bca6baa3413edf5d6217708a4b92b2b884b236b78e18d49c98"
-      },
-      "notes": "New in this version:\n\u2022 To-do brings work from every learning period into one list, with clearer separation between your next actions and work awaiting a student.\n\u2022 Reading & AI offers None, OCR only, and OCR + AI, with a separate choice for automatic pregrading. Core sample defaults and individual student schedules are easier to adjust.\n\u2022 Grade groups Chat, Rubric and File tools into tabs. Comparison previews now include page thumbnails, and dragging the thumbnail viewport pans the page.\n\u2022 Finalize remembers your Email family choice. PDF output and appearance settings are more compact, with clearer PCA sample guidance.\n\u2022 Fresh coastal update artwork and new Buddy app icons.\n\nFixes:\n\u2022 Page thumbnails stay centered and stable when selecting, reordering and resizing. Finalized packets remain protected until you unfinalize them.\n\u2022 Changing Reading & AI settings safely holds background work and preserves teacher edits and paused queues.\n\u2022 Receipt recovery handles more locally captured PDF and HTML files, offers manual filing when needed, and provides more useful diagnostics.\n\u2022 Filtered To-do and email actions retain the correct assignment and student. Finishing Verify returns to To-do, and Finalize shows clearer progress."
+        "name": "WorkSampleBuddy-5.0.0-beta.6-macos.dmg",
+        "url": "https://github.com/warnerwes/wsb-releases/releases/download/v5.0.0-beta.6/WorkSampleBuddy-5.0.0-beta.6-macos.dmg",
+        "size": 335017088,
+        "sha256": "25d7ad49491e9c8dd911f57f03e33af55a8eeae3d277fa6010774ebdbd803e30"
+      }
     }
   }
 }
